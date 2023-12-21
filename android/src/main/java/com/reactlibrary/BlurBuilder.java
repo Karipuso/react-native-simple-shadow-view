@@ -3,10 +3,10 @@ package com.como.RNTShadowView;
 import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
-import androidx.renderscript.Allocation;
-import androidx.renderscript.Element;
-import androidx.renderscript.RenderScript;
-import androidx.renderscript.ScriptIntrinsicBlur;
+import android.renderscript.Allocation;
+import android.renderscript.Element;
+import android.renderscript.RenderScript;
+import android.renderscript.ScriptIntrinsicBlur;
 
 public class BlurBuilder {
 
